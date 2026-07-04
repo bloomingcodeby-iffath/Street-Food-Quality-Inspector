@@ -1,0 +1,7 @@
+torch
+torchvision
+gradio
+pillow
+numpy
+grad-cam
+huggingface_hub
